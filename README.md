@@ -1,5 +1,15 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Serxio
 
+Estudiante de Ingenieria Informatica. Desarrollador de software y en especial videojuegos.
+
+## 🔧 Tecnologías y herramientas
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javascript)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=python)
+
+## 📈 Estadísticas de GitHub
+
+![SNecrio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SNecrio&show_icons=true&theme=radical)
 <!--
 **SNecrio/SNecrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

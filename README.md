@@ -4,8 +4,8 @@ Estudiante de Ingenieria Informatica. Desarrollador de software y en especial vi
 
 ## 🔧 Tecnologías y herramientas
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=javascript)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 
 ## 📈 Estadísticas de GitHub
 

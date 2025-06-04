@@ -13,7 +13,7 @@ Estudiante de Ingenieria Informatica. Desarrollador de software y en especial vi
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square)
 ![Shell Script](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=black)
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
 

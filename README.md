@@ -4,8 +4,16 @@ Estudiante de Ingenieria Informatica. Desarrollador de software y en especial vi
 
 ## 🔧 Tecnologías y herramientas
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SageMath](https://img.shields.io/badge/-SageMath-ED1B24?style=flat-square&logo=sagemath&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat-square)
+![Shell Script](https://img.shields.io/badge/-Shell-89e051?style=flat-square&logo=gnu-bash&logoColor=black)
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl)
 
 ## 📈 Estadísticas de GitHub
 

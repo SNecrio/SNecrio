@@ -4,7 +4,7 @@ Estudiante de 3º de Ingenieria Informatica. Desarrollador de software. Aspirant
 
 ## 👾 Proyectos
 
-Estoy ahora mismito haciendo una aplicacicón para que dejes de usar el movil tanto (tengo problemas con los reels).
+Estoy ahora mismito haciendo una aplicación para que dejes de usar el movil tanto (tengo problemas con los reels).
 Se llama Your Study Slime, y en cuanto salga sera el primer gacha de no hacer absolutamente nada.
 
 Despues de este tambien tengo otros proyectinis por ahi perdidos, pero esos ya saldran a la luz cuando sea la hora...

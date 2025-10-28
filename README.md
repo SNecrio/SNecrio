@@ -10,7 +10,7 @@ Se llama Your Study Slime, y en cuanto salga sera el primer gacha de no hacer ab
 Despues de este tambien tengo otros proyectinis por ahi perdidos, pero esos ya saldran a la luz cuando sea la hora...
 
 También estoy escribiendo un documento sobre el diseño de videojuegos y me esta quedando to guapo, aquí lo teneís por si os interesa:
-## ✨ [El Arte del Videojuego](https://docs.google.com/document/d/1MAYLJ-yZef57zZ57mEhluOPB8R1o1R1s2oSKOKY89pk/edit?usp=sharing) ✨
+### ✨ [El Arte del Videojuego](https://docs.google.com/document/d/1MAYLJ-yZef57zZ57mEhluOPB8R1o1R1s2oSKOKY89pk/edit?usp=sharing) ✨
 
 Tiene activado los comentarios, por si os apetece poner algún ejemplo más de un juego, expresar vuestros sentimientos sobre mecánicas
 concretas, sugerir temas nuevos o ampliar los que ya están, o incluso si simplemente quereis reiros de mí por algún pequeño

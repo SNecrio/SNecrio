@@ -1,6 +1,14 @@
-# Soy Serxio
+# Soy Serxio 🦧
 
 Estudiante de 3º de Ingenieria Informatica. Desarrollador de software. Aspirante a director y diseñador de videojuegos.
+
+## 👾 Proyectos
+
+Estoy ahora mismito haciendo una aplicacicón para que dejes de usar el movil tanto (tengo problemas con los reels).
+
+Se llama Your Study Slime, y en cuanto salga sera el primer gacha de no hacer absolutamente nada.
+
+Despues de este tambien tengo otros proyectinis por ahi perdidos, pero esos ya saldran a la luz cuando sea la hora...
 
 ## 🔧 Tecnologías y herramientas
 
@@ -34,12 +42,12 @@ Tengo trabajado con algunas otras cosillas:
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
 
 Como me gustan las chapitas estas macho
 
 [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
